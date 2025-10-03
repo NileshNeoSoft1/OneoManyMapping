@@ -32,11 +32,11 @@ src/
 │   ├── java/
 │   │   └── com.example.customerapi/
 │   │       ├── Customer.java
-│   │       ├── City.java
+│   │       ├── Address.java
 │   │       ├── CustomerController.java
-│   │       ├── CustomerRepository.java
-│   │       ├── CustomerService.java
 │   │       └── CustomerApiApplication.java
+│   │       
+│   │      
 │   └── resources/
 │       └── application.properties
 
