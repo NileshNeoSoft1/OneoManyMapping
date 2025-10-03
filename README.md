@@ -27,4 +27,16 @@ Specifically, it retrieves customers whose city is **Yavatmal**.
 ---
 
 ## 🗂️ Project Structure
+src/
+├── main/
+│   ├── java/
+│   │   └── com.example.customerapi/
+│   │       ├── Customer.java
+│   │       ├── City.java
+│   │       ├── CustomerController.java
+│   │       ├── CustomerRepository.java
+│   │       ├── CustomerService.java
+│   │       └── CustomerApiApplication.java
+│   └── resources/
+│       └── application.properties
 
