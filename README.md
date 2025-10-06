@@ -9,7 +9,7 @@ Specifically, it retrieves customers whose city is **Yavatmal**.
 
 - Built with **Spring Boot**
 - Uses **JPA/Hibernate** for ORM
-- Implements **One-to-Many mapping** between `City` and `Customer`
+- Implements **One-to-Many mapping** between `Address` and `Customer`
 - Exposes a REST API to fetch customers by city
 - Organized into three main entity classes and a controller
 - Includes a main application class to bootstrap the project
